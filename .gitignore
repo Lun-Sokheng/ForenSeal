@@ -1,0 +1,16 @@
+# Private keys and key folders: never upload
+keys/
+*.pem
+
+# Evidence and case data (manifests, signatures, receipts live here)
+cases/
+
+# Virtual environment and Python junk
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
+.idea/

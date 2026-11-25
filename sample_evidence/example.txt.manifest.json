@@ -1,0 +1,9 @@
+{
+    "case_id": "evidence-001",
+    "evidence_id": "case-001",
+    "collector": "whoami",
+    "path": "example.txt",
+    "sha-256": "ac30588792fb020ed166c6b4bd109a825ec2359c79309e9f536d0b879ca8f5d7",
+    "size_bytes": 36,
+    "record_utc": "2026-11-22T05:56:25+00:00"
+}
